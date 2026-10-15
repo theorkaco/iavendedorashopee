@@ -1,0 +1,11 @@
+Arquivos esperados:
+demo-gpt-principal.webp
+demo-resultado.webp
+print-pesquisa-produtos.webp
+print-criacao-anuncio.webp
+print-calculo-margem.webp
+prova-principal.webp
+prova-feedback-1.webp
+prova-feedback-2.webp
+
+A página mostra espaços sinalizados enquanto os arquivos não existem.
